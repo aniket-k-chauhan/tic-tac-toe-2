@@ -1,4 +1,4 @@
-Created tick-tack-toe using Vanilla JavaScript, Vanilla JS + TypeScript and React + TypeScript.
+Created tic-tac-toe using Vanilla JavaScript, Vanilla JS + TypeScript and React + TypeScript.
 
 `main` branch contains Vanilla JS Implementation.
 
